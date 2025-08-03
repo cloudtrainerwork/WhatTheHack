@@ -1,6 +1,3 @@
-Below is a step-by-step guide for both the **Coach’s Guide** and the **Student’s Guide** for Challenge 1: Gathering Open Powerlifting Data, focusing on Azure and Azure Synapse Analytics. The guides are tailored to the requirements provided, ensuring clarity for both the coach (who oversees the process) and the student (who executes the tasks). The focus is on selecting an appropriate storage service, uploading data securely, managing access keys, and leveraging Azure Active Directory (AAD) for access control.
-
----
 
 ## Coach’s Guide: Challenge 1 - Gathering Open Powerlifting Data
 
